@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm RS</h1>
 <h3 align="center">A passionate business strategist with 9+ years of experience in App Analytics, Data, Product Management, and Marketplace operations. I bring a data-driven, analytics-focused approach with proven results in FinTech, E-commerce, Food Delivery, and Telecommunications industries.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifatuls" alt="rifatuls" /></a> </p>
-
 - 🔭 I’m currently working on **bKash**
 
 - 🌱 I’m currently learning **CS50x**
